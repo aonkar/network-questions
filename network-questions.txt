@@ -27,7 +27,7 @@ A,B,C,D are the IPs to be assigned to four computers ;
 2.1What network elements are need to arrive at the above network architecture ; explain their
 configurations in terms at L3/L2 Details of the IP assignments to be given to each node 
 
-            . All the hosts on the same network
+            . All the hosts on the same internal network
             . It would need ARP cache table
             . Switch to communicate within the network
             . Router/ Default GateWay if any of these hosts want to communicate to the external network
